@@ -549,3 +549,33 @@
          
 //     }
 // }
+
+// chap 21
+// q no 01
+// var userInput = prompt("Enter Your Name");
+// var allLower = userInput.toLocaleLowerCase();
+// console.log(allLower);
+
+// q no 2
+// var x = "Anas";
+// x = x.toLowerCase();
+// console.log(x);
+
+// q no 3
+// var x = "Anas";
+// x = x.toUpperCase();
+// console.log(x);
+
+// q no 4
+// var a = "ANAS";
+// var b = a.toLowerCase();
+// console.log(b);
+
+// q no 5
+// var array = ["ANAS", "BILAL", "ZAID", "ZAIN"];
+// for (var i = 0; i < array.length; i++){
+//      var lowerCaseNames = array[i].toLowerCase();
+//      console.log(lowerCaseNames);
+// }
+
+// q no 6
